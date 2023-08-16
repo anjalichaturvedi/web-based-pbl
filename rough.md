@@ -6,7 +6,8 @@ Teachers can see:
 - Schedule
     - Popup: If hours>11 and <5 
     - Check for clashing
-- Room Occupancy 
+- Room Occupancy
+- Book a Lecture Hall
 
 Students can see:
 - Batch-wise schedule with a breakdown of subject codes and classrooms
